@@ -32,6 +32,6 @@ Expected Output:
 ---
 
 # How to Run
-1. Save the Python files (e.g., `even_odd.py` and `sum_loop.py`) together with this README.txt.
-2. Open a terminal or command prompt.
-3. Run the programs using:
+1. Save the Python files (e.g., `Assign_2__Task1.py` and `Assign_2__Task2.py`) together with this README.txt.
+3. Open a terminal or command prompt.
+4. Run the programs using:
